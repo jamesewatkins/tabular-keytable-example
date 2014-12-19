@@ -1,0 +1,13 @@
+<head>
+  <title>Tabular with Extension</title>
+</head>
+
+<body>
+  <h1>Tabular with Extension</h1>
+
+  {{>TestTemplate}}
+</body>
+
+<template name="TestTemplate">
+{{> tabular table=TabularTables.Books name="testTable" class="table table-striped table-bordered table-condensed"}}
+</template>
