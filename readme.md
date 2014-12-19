@@ -54,4 +54,4 @@ Template.TestTemplate.rendered = function() {
 The rest of the extensions should be able to be added in a similar fashion.  
 
 ##Thanks
-* To all the people who work on Meteor, DataTables and Tabular so fun to work with
+* To all the people who work on Meteor, DataTables and Tabular that make the web so fun to work with
